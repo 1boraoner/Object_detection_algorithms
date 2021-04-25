@@ -1,5 +1,5 @@
 # Object_detection_algorithms
-codes for object detection
+Sliding Window - a fixed box size (224,224)
 
 
 
